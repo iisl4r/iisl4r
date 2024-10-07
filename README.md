@@ -68,5 +68,4 @@ Love what I do? Show your support and help me keep creating amazing designs and 
 
 ## 📫 Contact & Socials:
 - **Email:** [me@sl4r.com](mailto:me@sl4r.com)  
-- **Instagram:** [@iisl4r](https://www.instagram.com/iisl4r)  
 - **Website:** [www.sl4r.com](http://www.sl4r.com)  
