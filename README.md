@@ -25,6 +25,7 @@ I’m currently a Cybersecurity Student at the **University of Bahrain (UOB)** a
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ## 🎨 Graphic Design Background:
 In addition to my technical skills, I have extensive experience in graphic and motion design, making me well-versed in both creative and analytical thinking. Check out my portfolio: [www.sl4r.com](http://www.sl4r.com).
@@ -40,12 +41,11 @@ In addition to my technical skills, I have extensive experience in graphic and m
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-
 #
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iisl4r&show_icons=true&theme=radical)
 <br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iisl4r&theme=dark&hide_border=false)
 
 ## 🔍 Current Focus:
