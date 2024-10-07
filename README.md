@@ -41,12 +41,6 @@ In addition to my technical skills, I have extensive experience in graphic and m
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
-#
-# 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iisl4r&show_icons=true&theme=radical)
-<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=iisl4r&theme=dark&hide_border=false)
 
 ## 🔍 Current Focus:
 Right now, I’m actively learning **reverse engineering** and trying to find bugs independently. I’m excited about uncovering hidden vulnerabilities and turning challenges into opportunities!
