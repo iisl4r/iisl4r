@@ -1,6 +1,6 @@
 # Yo! 👾
 
-🌞🌙 By Day: Graphic Designer, By Night: Penetration Tester
+🌞🌙 By Day: Graphic Designer, By Night: Penetration Tester.
 Welcome to my profile! When the sun’s up, I’m busy crafting designs and motion graphics. But when the moon takes over, I’m on an exciting journey through the cybersecurity universe—because who needs sleep when there’s code to break and systems to secure? 😉
 
 ## 📜 About Me:
