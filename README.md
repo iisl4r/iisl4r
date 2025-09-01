@@ -1,14 +1,14 @@
 # Yo! 👾
 
 🌞🌙 By Day: Graphic Designer, By Night: Penetration Tester.
-Welcome to my profile! When the sun’s up, I’m busy crafting designs and motion graphics. But when the moon takes over, I’m on an exciting journey through the cybersecurity universe—because who needs sleep when there’s code to break and systems to secure? 😉
+Welcome to my profile! When the sun’s up, I’m busy crafting designs and motion graphics. But when the moon takes over, I’m on an exciting journey through the cybersecurity universe—because who needs sleep when there’s code to break and systems to secure? 
 
-## 📜 About Me:
+##  About Me:
 I’m currently a Cybersecurity Student at the **University of Bahrain (UOB)** and a Graphic Designer with **9 years of experience**. I thrive at the intersection of art and technology, where I can solve problems and create stunning visuals.
 
-**Fun Fact:** I once spent hours trying to fix a bug in my code, only to find out my cat had been sitting on the keyboard the whole time! 😄 Outside of my tech pursuits, I’ve achieved a high rank in League of Legends, a testament to my strategic thinking and competitive spirit.
+**Fun Fact:** I once spent hours trying to fix a bug in my code, only to find out my cat had been sitting on the keyboard the whole time!  Outside of my tech pursuits, I’ve achieved a high rank in League of Legends, a testament to my strategic thinking and competitive spirit.
 
-## 💼 Technical Skills:
+##  Technical Skills:
 - **Programming Languages:** JAVA, PYTHON, C++, LUA, PHP, JS, HTML
 - **Web Development:** CSS, HTML, PHP, WordPress
 - **Systems:** Proficient in Linux and Windows environments
@@ -27,7 +27,7 @@ I’m currently a Cybersecurity Student at the **University of Bahrain (UOB)** a
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-## 🎨 Graphic Design Background:
+##  Graphic Design Background:
 In addition to my technical skills, I have extensive experience in graphic and motion design, making me well-versed in both creative and analytical thinking. Check out my portfolio: [www.sl4r.com](http://www.sl4r.com).
 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
@@ -42,18 +42,11 @@ In addition to my technical skills, I have extensive experience in graphic and m
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 
-## 🔍 Current Focus:
+## Current Focus:
 Right now, I’m actively learning **reverse engineering** and trying to find bugs independently. I’m excited about uncovering hidden vulnerabilities and turning challenges into opportunities!
 
-## 🎯 Career Goals:
+##  Career Goals:
 I’m committed to continuous learning and improving my cybersecurity expertise. My goal is to develop the skills and experience needed to contribute meaningfully to the cybersecurity community and, one day, become a top professional in the field.
-
-## 💡 Personal Interests:
-- 🏋️‍♂️ GYM & Fitness
-- 🎨 Drawing & Art
-- 🏃‍♂️ Running
-- 🧠 Problem Solving
-- 🎮 Competitive Gaming
 
 ## 💰 Fuel My Passion!
 Love what I do? Show your support and help me keep creating amazing designs and diving deep into the world of cybersecurity! Your contributions make all the difference!
